@@ -1,0 +1,11 @@
+h1{
+    color:blue;
+}
+p{
+    font-size:34px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+#image{
+    width: 425px;
+}
